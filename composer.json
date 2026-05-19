@@ -1,0 +1,20 @@
+{
+  "name": "bbwdadfg/playqueensgame-site-kit",
+  "description": "Small URL helpers for Queens Game, a free online Queens logic puzzle at https://playqueensgame.org.",
+  "type": "library",
+  "license": "MIT",
+  "homepage": "https://playqueensgame.org",
+  "keywords": ["playqueensgame", "queens-game", "puzzle", "logic", "logic-puzzle"],
+  "support": {
+    "source": "https://github.com/bbwdadfg/playqueensgame-site-kit",
+    "issues": "https://github.com/bbwdadfg/playqueensgame-site-kit/issues"
+  },
+  "autoload": {
+    "psr-4": {
+      "PlayQueensGame\\SiteKit\\": "src/"
+    }
+  },
+  "require": {
+    "php": ">=8.0"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "name": "playqueensgame-site-kit",
+  "version": "0.1.0",
+  "description": "Small URL helpers for Queens Game, a free online Queens logic puzzle.",
+  "homepage": "https://playqueensgame.org",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bbwdadfg/playqueensgame-site-kit.git"
+  },
+  "bugs": {
+    "url": "https://github.com/bbwdadfg/playqueensgame-site-kit/issues"
+  },
+  "keywords": [
+    "playqueensgame",
+    "queens-game",
+    "puzzle",
+    "logic",
+    "logic-puzzle"
+  ],
+  "license": "MIT",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test_node.js"
+  },
+  "files": [
+    "index.js",
+    "README.md",
+    "LICENSE"
+  ]
+}

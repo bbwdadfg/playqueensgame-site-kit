@@ -1,0 +1,26 @@
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+[project]
+name = "playqueensgame-site-kit"
+version = "0.1.0"
+description = "Small URL helpers for Queens Game, a free online Queens logic puzzle."
+readme = "README.md"
+requires-python = ">=3.9"
+license = "MIT"
+authors = [{ name = "Queens Game", email = "hello@playqueensgame.org" }]
+keywords = ["playqueensgame", "queens-game", "puzzle", "logic", "logic-puzzle"]
+classifiers = [
+  "License :: OSI Approved :: MIT License",
+  "Programming Language :: Python :: 3",
+  "Programming Language :: Python :: 3 :: Only",
+]
+
+[project.urls]
+Homepage = "https://playqueensgame.org"
+Source = "https://github.com/bbwdadfg/playqueensgame-site-kit"
+"Play board" = "https://playqueensgame.org/#play"
+"Daily Queens" = "https://playqueensgame.org/daily/"
+Learn = "https://playqueensgame.org/learn/"
+Blog = "https://playqueensgame.org/blog/"

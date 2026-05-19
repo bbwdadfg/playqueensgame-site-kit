@@ -1,0 +1,18 @@
+name: playqueensgame_site_kit
+description: Small URL helpers for Queens Game, a free online Queens logic puzzle.
+version: 0.1.0
+homepage: https://playqueensgame.org
+repository: https://github.com/bbwdadfg/playqueensgame-site-kit
+issue_tracker: https://github.com/bbwdadfg/playqueensgame-site-kit/issues
+
+environment:
+  sdk: ^3.8.0
+
+topics:
+  - playqueensgame
+  - queens-game
+  - puzzle
+  - logic
+
+dev_dependencies:
+  test: ^1.25.0

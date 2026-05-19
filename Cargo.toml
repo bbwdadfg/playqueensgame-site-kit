@@ -1,0 +1,17 @@
+[package]
+name = "playqueensgame-site-kit"
+version = "0.1.0"
+edition = "2021"
+description = "Small URL helpers for Queens Game, a free online Queens logic puzzle."
+license = "MIT"
+homepage = "https://playqueensgame.org"
+repository = "https://github.com/bbwdadfg/playqueensgame-site-kit"
+documentation = "https://docs.rs/playqueensgame-site-kit"
+readme = "README.md"
+keywords = ["queens", "puzzle", "logic", "game"]
+categories = ["web-programming"]
+include = ["Cargo.toml", "README.md", "LICENSE", "rust/src/lib.rs"]
+
+[lib]
+name = "playqueensgame_site_kit"
+path = "rust/src/lib.rs"
