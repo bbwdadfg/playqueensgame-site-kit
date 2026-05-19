@@ -6,7 +6,7 @@
 
   <groupId>net.clojars.tianwei</groupId>
   <artifactId>playqueensgame-site-kit</artifactId>
-  <version>0.1.0</version>
+  <version>0.1.1</version>
   <packaging>jar</packaging>
 
   <name>playqueensgame-site-kit</name>
@@ -32,7 +32,7 @@
     <url>https://github.com/bbwdadfg/playqueensgame-site-kit</url>
     <connection>scm:git:https://github.com/bbwdadfg/playqueensgame-site-kit.git</connection>
     <developerConnection>scm:git:https://github.com/bbwdadfg/playqueensgame-site-kit.git</developerConnection>
-    <tag>v0.1.0</tag>
+    <tag>v0.1.1</tag>
   </scm>
 
   <properties>
